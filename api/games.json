@@ -1,0 +1,20 @@
+[
+  {
+    "id": "com.example.puzzlegame",
+    "name": "Puzzle Quest",
+    "tagline": "Challenge your mind with hundreds of puzzles",
+        "icon_url": "https://roto.github.io/assets/icons/test_icon_01.png",
+    "ios_store_url": "https://apps.apple.com/app/puzzle-quest/id123456789",
+    "android_store_url": "https://play.google.com/store/apps/details?id=com.example.puzzlegame",
+    "featured": true
+  },
+  {
+    "id": "com.example.arcadegame",
+    "name": "Arcade Runner",
+    "tagline": "Run, jump, and dodge endless obstacles",
+    "icon_url": "https://roto.github.io/assets/icons/test_icon_02.png",
+    "ios_store_url": "https://apps.apple.com/app/arcade-runner/id987654321",
+    "android_store_url": "https://play.google.com/store/apps/details?id=com.example.arcadegame",
+    "featured": false
+  }
+]
